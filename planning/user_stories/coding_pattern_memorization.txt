@@ -1,0 +1,43 @@
+As an aspiring software developer/engineer, I want to be able to memorize common Leetcode patterns, 
+so that I am able to recall them easily when approaching and tackling the technical interview process of getting an internship or career.
+
+    * As an aspiring software developer/engineer, I want a scheduled learning strategy for these Leetcode patterns 
+    so that I am experiencing practice in a schedule that has been proven to aid in memorization
+
+        + As a developing software developer/engineer, I want notifications of these patterns at space management time intervals 
+        so that memorization is maximized for whatever tasks are sent to me
+
+            - As an aspiring software developer/engineer, I want a notification system based on text, email, or calendar reminders that jumps out at me when necessary, 
+            so that I can’t miss them or ignore them when they are prompted.
+
+            - As an aspiring software developer/engineer, I want a timing system to send the reminders at that keeps in mind my general daily schedule combined with the learning schedule,
+            so that notifications to practice these assignments are not sent an unreasonable times but also keep me on track to refresh my memory on all the patterns I am currently studying.
+
+        + As a client, I want to be able to separate all information associated with a website into different subpages, so that when a user needs to look for a particular piece of information,
+         they don’t have to search one long list of information on a page but instead can access the appropriate subpage of the site with ease.
+
+            & As a developing software developer/engineer, I want an updatable statistics/achievement page that keeps track of what patterns/problems I have completed learning 
+            so that I have a visual representation of how much work I have done and how much work I have left to do approximately.
+            
+                - As a client, I want an application that allows for users to be created and stored based on a given interface, so that information about users can be remembered and recalled
+                    * As a client, I want users to be able to input their own information into a system to be recorded long term, so that the user system of the application is dynamic and accounts for allowing any physical individual to have a profile on an application
+                    * As a client, I want an application that can store data in one location for a long term duration of time, so that data that will eventually be associated with users of the application will be maintained and organized in a fashion that it can be analyzed and optimized for fast retrieval.
+
+                - As a client, I want a graphically enticing and effective user interface that allows for easy navigation of a website, 
+                so that any user who encounters the site will be able to navigate the appropriate buttons, processes, and services that the site has to offer without difficulty.
+                    
+                    * As a client, I want users to be able to find exactly what they need on the website in two clicks or less (settings, main features, profile, etc), so that they cannot get lost within the variety of services that will be offered by the application.
+                    * As a client, I want users to understand exactly what the application is offering upon accessing the website, so that users don't join when it's not a service that they need or they do join when it is exactly what they need.
+                    * As a client, I want users to be prompted with tutorialized information on how to use the application, so that users do not have to figure the services provided themselves but instead they are given the chance to be walked through exactly what is intended by the application
+
+                - As an aspiring software developer/engineer, I want visual graphs on site that describe my activity in these Leetcode pattern studies,
+                so that I can be aware of times that I either slacked off or was overly productive in my schedule/practice path
+
+                - As an aspiring software developer/engineer, I want a graphic "medal system" or achievements that can be gained by exhibiting certain practice strategies such as "Completed 50 Problems" or "Maintained a 5 Day Learning Streak",
+                so that there is active engagement on my part to reach specific milestones in my learning journey of these patterns.
+ 
+                - As a client, I want users to have the ability to decide which Leetcode patterns they want to study and which ones they want to postpone for later studies, so that the user has some control of their learning path while also being directed by the application
+
+                    *As an aspiring software engineer, I want a full breakdown of all the possible Leetcode patterns available to learn, grow, and choose from, so that I am not left with impartial knowledge of how much information I am going to need to know before starting technical interviews
+Notes:
+  -This is the notes section for our main breakdown of the epic story that we want to expand upon and develop.

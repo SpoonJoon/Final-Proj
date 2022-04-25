@@ -1,0 +1,63 @@
+Project Overview
+
+Application Vision/Goal: We are looking to create a web application in order to help users memorize the common Leetcode patterns useful in technical interviews. We plan to implement space-repetition techniques that enforce the user to minimize forgetfulness, allowing them to ultimately recall all possible problem frameworks and their solutions. Initially, we are looking to create an application that simply provides the user with resources from other sites, such as Leetcode problems and articles surrounding the coding patterns necessary to learn. Given more time as the semester progresses, we will also try to embed these problems directly into the site and if possible, do a better job at displaying progress and “memorization data” visually to the user so they have a better understanding at how well they are progressing in these problems/how much more/less effort they need to spend in order to maintain their timeline goals. If possible as well, we want to include some sort of reward system as well to provide additional encouragement in practicing these problems on a daily basis, similar to a Duolingo style architecture (i.e. multi-day streaks, leveling up, awards, medals, etc).
+
+Scope: Multiple users, particularly the population interested in their coding skills/technical interviews, and also just general college students interested in coding. Could in theory be used by tens of thousands of CS majors/programmers/engineers
+
+Deliverables: 
+    Landing page (currently just our "hello world" screen)
+    Flask image
+    Postgres image
+    ^^^ Above three meant for this active sprint
+    VVV Below meant for future sprints
+    Nginx server
+    Login page
+    Automated reminders (via email, text, notifications, etc.)
+    Embedded coding problems (stretch deliverable)
+    Database design (schema)
+    Buy me a coffee button
+
+Success Criteria:  
+    A docker image for flask as well as an image for postgres which are bundled together using a docker compose yml file.  (Stretches for upcoming sprints --> A working login page which stores a user ID, user name, and encrypted password in the sql database.  A landing page where users can click a button to start learning a particular pattern.  After clicking the button the app should send the user problem recommendations on a timed interval.  The landing page will also have a curated list of articles for each pattern which can be voted on by users in order to rank them.)
+
+Assumptions:
+    This will be easy.
+    Also, we are assuming that postgres and flask have all the proper functionality necessary for our current design idea (as in we may find that we need to switch databases, etc.)
+
+Risks:
+    Finding a secure/official docker image  
+    Linking all images/containers together properly + not attaching to the right image
+
+Design / Architectural Review:
+    Postgres database to keep track of users and their accounts/progress
+    Flask webframework for user interaction
+
+Test Environment:
+    Flask unit test
+    Successfully build a "hello world" localhost webpage
+
+
+Team Members:
+    Dylan M Macejko
+    Joonhwan Yoo
+    Barrett M Sweet
+
+Team Roles:
+    All sharing similar roles, all contributing to the sprint files/specification files/docker building phase
+
+
+Team Norms:
+    Communication mostly through class time, but when not in class, over our Discord channel
+    Meet every Thursday at 7 pm to work on necessary sprints/milestones
+
+
+Application Stack:
+    React
+    Flask
+    PostgreSQL / MySQL
+    Cloud Run / Cloud Functions / NginX
+
+        CRUPF
+
+    Libraries/Frameworks
+

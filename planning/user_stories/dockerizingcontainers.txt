@@ -1,0 +1,3 @@
+As a client, I want an application that I can deploy on any server running Docker
+    -As a client, I want an application that can handle a large number of users such that those that want to access the application/create a profile 
+    are not limited by the amount of users currently on the system.

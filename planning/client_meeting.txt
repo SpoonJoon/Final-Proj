@@ -1,0 +1,25 @@
+1. What are the costs vs budget?
+        budget: zero dollars.
+        cost: 1 million dollars.
+2. What is the timeframe?
+        May 15th
+        Prototype a month in advance (April 15th)
+3. What problem are you trying to solve?
+        Help prospective job candidates remember leetcode patterns to aid them in becomming pro
+ficient programmers.  Develop a strategy to help them remember leetcode patterns long after the
+y have solved particular problems.
+4. What is the most important feature?
+	The ability to remind users to complete specific patterns on a timed interval.
+	Using some kind of percentage refresh value, that gets updated after each time a user learns a pattern.  Implement a decay function to decrease the percentage refresh value.
+5. Is there a similar product on the market?
+	Leetcode, DuoLingo, Hackerrank, Khan Academy.
+6. Are there any existing product or technologies that will need to be integrated?
+	Leetcode api, compiler/IDE api
+7. What does success look like?
+	Appropriate memory recall for users after using this product.  A good looking user interface.  Having a working product within the timeline specified.  It must look one hundred times better than Zerksis Umrigar's website.  Must be aesthetically pleasing.  Clear buttons, a page where you can review your progress (how many were completed, how many left to go, what is the percentage of remembrance, a graph of activity).  Implement user incentive structure in the way of a reward system to gain points.
+8. What risks are associated with malicious user?
+	Security is important.  Client doesn't want to be liable for stolen information.  Database intgreity is important.  
+9 What is the lifetime of the software?
+	As long as possible.  As more work is being done in technical interviews, coding problems are being discovered everyday.  This fact should allow continuous growth for the platform. 
+10. What additional features would you like?
+	Fun coding problems that are still challenging.  A digital reward after a concept is completed.  Fun stickers for the user in order to keep them using the software.  

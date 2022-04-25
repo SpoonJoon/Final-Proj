@@ -1,0 +1,2 @@
+As a hiring manager for a MAANG company, I want additional meaningful statistics for my candidates when it comes to their coding abilities,
+so that during our recruitment process I can gauge how much work they have put into their interview practice skills and understand their coding level to some degree.

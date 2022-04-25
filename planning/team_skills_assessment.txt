@@ -1,0 +1,57 @@
+Frontend:
+	Joon: 
+        Flutter: Proficient
+        React: Novice
+        HTML CSS: Novice
+
+	Dylan:
+		Flutter: None
+		React: None
+		HTML: Novice
+		CSS: None
+		Javascript: None
+
+	Barrett:
+		Javascript: Novice
+		HTML: Competent
+		CSS: Novice
+		React: None
+		Flutter: None
+
+Backend:
+	Joon:
+		Node.js: Competent
+		Flask/Django: Novice
+		AWS Lambda: Novice
+		Google Cloud Platform: Novice
+
+	Dylan:
+		Node.js: None
+		Flask/Django: None
+		AWS Lambda: None
+		Google Cloud Platform: Novice
+
+	Barrett:
+		Google Cloud Platform: Competent
+		AWS: None
+		Flask: Competent
+		Node.js: None
+	
+DB:
+	Joon: 
+		MySQL: Novice
+		Firestore: Competent
+		Mongo: None
+
+	Dylan:
+		MySQL: None
+		Firestore: None
+		Postgre: None
+		Mongo: Novice
+		Sqlite: None
+	
+Barrett	:	
+		Sqlite: Competent
+		Postgre: Novice
+		Mongo: Novice
+		Firestore: None

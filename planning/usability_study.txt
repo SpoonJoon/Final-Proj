@@ -1,0 +1,30 @@
+Usability_study.txt
+Pages:
+- Landing page 
+- Login/ signup page
+- Dashboard
+  - Users can access statistics and notifications here.
+- Navigation bar to access other pages on the site.
+- Settings page
+    - Logout button
+    - Communication settings
+- FAQ/Help
+
+Learnability:
+- Tutorial demo (React Modal) pops up that shows a user which buttons to click to accomplish particular actions.  Demo will have a do not show again button.
+The landing page that the main URL leads to will also have a short but detailed description to what exactly is to be accomplished by 
+using the application. It will have information on the science of space repetition and its uses/practicality so that when they are presented with the dashboard,
+they will have an understanding of what exactly is being accomplished when different leetcode patterns are toggled on and off.
+Efficiency:
+- Every task can be accomplished in two clicks using the dashboard.  The dashboard is displayed immediately upon login. 
+    - Here's the thought process. Go to the URL to access the site, and this brings you to a landing page.
+    Click once to login, enter login information, and upon clicking again for submission, you will find yourself on the dashboard,
+    which will be capable of changing every setting necessary for altering and enhancing your learning experience. Here, the different
+    leetcode patterns can be toggled on and off for learning with a simple click. If you want to access the help page, the landing page, alternate
+    settings page, etc. There will be a navigation bar to immediately go to such pages with only one click.
+Memorability:
+- A tutorial button that can reinstate the tutorial for navigation. This tutorial will appear on how to use our site every time that the user
+logs into the dashboard as a reminder on how to use the site. They can choose to disable it using the "Do not show" button when
+they feel that they have memorized the sites usability, but can reinstate it if they want in settings if they feel they've forgotten.
+ An FAQ page will exist with answers to simple tasks such that the user can clear up any confusion they have with the user interface, although
+ we perceive it to be minimal.

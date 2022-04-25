@@ -1,0 +1,45 @@
+How will you use this application?
+You would use this application by signing up for this application via a webserver and following the required prompts that the webserver sends you with respect to the various different Leetcode patterns that are often used in technical interviewers by recruiters. After receiving the notifications sent by the webserver, it is up to you to log into the site around the required time to make sure that you are reinforcing your spacial and temporal memorization skills that ensure forgetfulness of these patterns is minimalized. Either Leetcode's API will be used by the user or the user will interact with our own coding space, where they can develop the solution to their problem.
+
+Where would the user be located physically when using this application?
+Anywhere with an internet connection and a web browser, most likely on a personal computer or laptop, but a phone browser could be a possibility.
+
+Where would the results be visible?
+On the web page (web browser). All non-user information will just be hidden by the database.
+
+When will this application be used?
+This application will be used whenever the user is provided with a particular Leetcode pattern to solve, based on the set time frames that we determine are most effective for learning. To put it simply, when the user receives and email/text telling them to solve a Leetcode pattern, they should use the application.
+
+
+When can the application fail?
+If we use a Leetcode API for the users to develop code on and solve the problems, if the Leetcode servers are down, then our application is effectively useless (could lead to users losing their streak, rewards for education, etc.). If we develop our own coding platform for the users to solve the problems with, if our server goes down, then we effectively run into the same issue: can't be run without stable network/server connection.
+
+
+Who is my user?
+Anybody looking to better improve their code development and/or learn new skills. If you are beginning technical interviews, this would be the perfect application for a user to take advantage of. (Also, potentially employers looking to scout out for those who are proficient in code development could use this application, if we set up a "business" profile for the application, but as of right now, the focus is for those who are designing and developing code)
+
+Who will deliver the inputs for the application?
+The user will deliver the inputs. They will insert their code chunks onto the site for evaluation for the specific problem given to them.
+
+Who will receive the outputs of the application?
+The user will receive outputs, which would be the results of the tests for the specific Leetcode problem being solved. We can also try to look into the application providing some sort of automatic feedback, such as simple comments on poor design/syntax to the user. Ultimately, all the output they will get will be a) their correctness for the current problem and b) all of their statistics for problems they have completed since joining the application.
+
+What do I know about this application?
+This is an application for education purposes of upcoming software engineers/developers. It will force memorization at maximal capacity to prepare users for interview questions in their upcoming future. We will need a database for the user information and will use Flask for our web application.
+
+What does this application need to do?
+The application needs to allow people to submit their code for review. To that end, it also needs to be able to save their results in a database to ultimately provide the users with an understanding of how they are progressing as they solve more and more problems. It also needs some way of accurately grading and testing for code problems, whether that be through a Leetcode API or our own code development page.  
+
+What are the components of this application?
+The application needs a front-end web interface to display code, Leetcode problems, and comments for users and viewers.  To support this feature, a database and server are required on the backend.  We need to talk about technologies that will allow us to implement the application, past the two technologies we are currently using: Flask and Postgres. We need to discuss how we are going to make the website look good to the user (html, react, etc), but we need to get main functionality down first before luxury of graphic design.
+
+What needs to happen next?
+A high level application architecture needs to be developed.  Our team should split the project into stages and components to assist in meeting development deadlines.
+Additionally, we must discuss the feasibility of this project with Professor Moore to ensure that we are staying within the guidelines set for us in terms of our project idea, particularly regarding the user base.
+Update, this idea has been confirmed and solidified by Professor Moore, and we just need to finish Milestone 0 next to ensure that we have an effective "Hello World" localhost server and docker-compose to use.
+
+What must happen before the next step?
+Our team needs to discuss the specific features that are important to the application to aid in developing a road-map and high level application architecture. We want to follow the Agile development strategies discussed in class.
+
+What needs to be tracked?
+Contributions to the project are easily tracked using github. Eventually, all information from the user standpoint will need to be tracked in the database (statistics on the user and their performance). The status of the server is also something that will need to be maintained.
